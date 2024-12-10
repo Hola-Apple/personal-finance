@@ -1,4 +1,4 @@
-# personal-finance
+# user-finance-tracker
 
 This is a rest services application using spring boot.
 
